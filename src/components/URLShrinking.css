@@ -1,0 +1,14 @@
+.shrink-url-form{
+    display: grid;
+    place-items: center;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+label{
+    display:block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
